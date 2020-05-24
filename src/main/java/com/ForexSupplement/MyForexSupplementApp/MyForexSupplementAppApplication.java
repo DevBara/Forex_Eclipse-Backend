@@ -1,0 +1,13 @@
+package com.ForexSupplement.MyForexSupplementApp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyForexSupplementAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyForexSupplementAppApplication.class, args);
+	}
+
+}
